@@ -45,14 +45,14 @@ export default function Home() {
             Read our docs
           </a>
         </div>
-      </main>
+      </main>     
       <footer className={styles.footer}>
         <a
           href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          <Image 
             aria-hidden
             src="https://nextjs.org/icons/file.svg"
             alt="File icon"
